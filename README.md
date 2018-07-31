@@ -1,5 +1,5 @@
 # micropython-neo7segment
-A MicroPython driver for the [Neo7Segment](https://www.tindie.com/products/seonr/neo7segment-display/) display.
+A MicroPython driver for the [Neo7Segment](https://www.tindie.com/products/seonr/neo7segment-display/) display created by Seon, the [Unexpected Maker](https://unexpectedmaker.com/)!
 
 ## Examples
 
