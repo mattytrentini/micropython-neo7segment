@@ -24,4 +24,4 @@ for char in display_string:
     time.sleep_ms(250)
 ```
 
-![demo](example/display_all.gif)
+![display_all_output](examples/display_all.gif)
